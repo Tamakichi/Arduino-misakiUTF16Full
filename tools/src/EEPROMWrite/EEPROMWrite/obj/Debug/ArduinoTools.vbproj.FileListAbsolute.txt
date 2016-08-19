@@ -1,0 +1,4 @@
+E:\GitHub\Arduino-misakiUTF16Full\tools\src\EEPROMWrite\EEPROMWrite\bin\Debug\EEPROMWrite.exe.config
+E:\GitHub\Arduino-misakiUTF16Full\tools\src\EEPROMWrite\EEPROMWrite\obj\Debug\EEPROMWrite.exe
+E:\GitHub\Arduino-misakiUTF16Full\tools\src\EEPROMWrite\EEPROMWrite\obj\Debug\EEPROMWrite.xml
+E:\GitHub\Arduino-misakiUTF16Full\tools\src\EEPROMWrite\EEPROMWrite\obj\Debug\EEPROMWrite.pdb

@@ -1,0 +1,10 @@
+c:\users\吉\documents\visual studio 2013\Projects\EEPROMWrite\EEPROMWrite\bin\Debug\EEPROMWrite.exe.config
+c:\users\吉\documents\visual studio 2013\Projects\EEPROMWrite\EEPROMWrite\obj\Debug\EEPROMWrite.FormEPPROM.resources
+c:\users\吉\documents\visual studio 2013\Projects\EEPROMWrite\EEPROMWrite\obj\Debug\EEPROMWrite.Resources.resources
+c:\users\吉\documents\visual studio 2013\Projects\EEPROMWrite\EEPROMWrite\obj\Debug\EEPROMWrite.vbproj.GenerateResource.Cache
+c:\users\吉\documents\visual studio 2013\Projects\EEPROMWrite\EEPROMWrite\bin\Debug\EEPROMWrite.exe
+c:\users\吉\documents\visual studio 2013\Projects\EEPROMWrite\EEPROMWrite\bin\Debug\EEPROMWrite.pdb
+c:\users\吉\documents\visual studio 2013\Projects\EEPROMWrite\EEPROMWrite\bin\Debug\EEPROMWrite.xml
+c:\users\吉\documents\visual studio 2013\Projects\EEPROMWrite\EEPROMWrite\obj\Debug\EEPROMWrite.exe
+c:\users\吉\documents\visual studio 2013\Projects\EEPROMWrite\EEPROMWrite\obj\Debug\EEPROMWrite.xml
+c:\users\吉\documents\visual studio 2013\Projects\EEPROMWrite\EEPROMWrite\obj\Debug\EEPROMWrite.pdb
