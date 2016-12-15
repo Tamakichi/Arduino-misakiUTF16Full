@@ -1,6 +1,7 @@
 // 
 // 美咲フォントドライバ v1.0 by たま吉さん 2016/08/05
 // EEPROMバージョン
+// 2016/12/15 findcode()の不具合対応(flg_stopの初期値を-1から0に訂正)
 //
 #include <arduino.h>
 #include <Wire.h>
@@ -151,7 +152,7 @@ int findcode(uint16_t  ucode) {
  int  e_p = FTABLESIZE-1; //  検索範囲下限
  int  pos;
  uint16_t  d = 0;
- int flg_stop = -1;
+ int flg_stop = 0;
  
  while(true) {
     pos = t_p + (e_p - t_p+1)/2;
